@@ -6,7 +6,7 @@
 
 <h3 align="center">My interests</h3>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7042F7&center=true&vCenter=true&width=435&lines=Web+development;DevOps;Algorithms" alt="Typing SVG" /><
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7042F7&center=true&vCenter=true&width=435&lines=Web+development;DevOps;Algorithms" alt="Typing SVG" />
 </div>
 
 
