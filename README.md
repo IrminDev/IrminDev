@@ -1,11 +1,13 @@
 <h1 align="center">Irmin Hernandez</h1>
 <h3 align="center">Engineering student</h3>
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/image.gif"/>
+  <img alt="Coding GIF" width="500" height="auto" src="assets/image.gif"/>
 </p>
 
 <h3 align="center">My interests</h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=7B6EF7&width=435&lines=Web+development;DevOps;Algorithms" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=7B6EF7&width=435&lines=Web+development;DevOps;Algorithms" alt="Typing SVG" />
+</div>
 
 
 <h3 align="center">About me</h3>
