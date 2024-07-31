@@ -44,7 +44,7 @@
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
+  <a href="https://www.linkedin.com/in/irmin-hern%C3%A1ndez-jim%C3%A9nez-84b897289/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
   &nbsp;&nbsp;&nbsp;
